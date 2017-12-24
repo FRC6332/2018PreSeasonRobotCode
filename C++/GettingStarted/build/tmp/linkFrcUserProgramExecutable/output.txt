@@ -1,0 +1,4 @@
+See file:///home/wcs/FRC/FRC1884-2016/C++%20Example%20Code/CAN%20Talon%20C++%20Robot%20Code/build/tmp/linkFrcUserProgramExecutable/output.txt for all output for linkFrcUserProgramExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramExecutable, see full log file:///home/wcs/FRC/FRC1884-2016/C++%20Example%20Code/CAN%20Talon%20C++%20Robot%20Code/build/tmp/linkFrcUserProgramExecutable/output.txt.

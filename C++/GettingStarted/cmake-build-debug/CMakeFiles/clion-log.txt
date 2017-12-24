@@ -1,0 +1,75 @@
+/opt/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code"
+CMake Error: Could not find cmake module file: CMakeDetermineTalonCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Talon_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Talon_COMPILER
+CMake Error: Could not find cmake module file: /home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/cmake-build-debug/CMakeFiles/3.9.4/CMakeTalonCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermineC++Compiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_C++_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_C++_COMPILER
+CMake Error: Could not find cmake module file: /home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/cmake-build-debug/CMakeFiles/3.9.4/CMakeC++Compiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermineRobotCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Robot_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Robot_COMPILER
+CMake Error: Could not find cmake module file: /home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/cmake-build-debug/CMakeFiles/3.9.4/CMakeRobotCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermineCodeCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Code_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_Code_COMPILER
+CMake Error: Could not find cmake module file: /home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/cmake-build-debug/CMakeFiles/3.9.4/CMakeCodeCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_Talon_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_Talon_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeTalonInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_C++_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_C++_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeC++Information.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_Robot_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_Robot_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeRobotInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_Code_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_Code_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeCodeInformation.cmake
+CMake Error: CMAKE_Talon_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_C++_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_Robot_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_Code_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/cmake-build-debug/CMakeFiles/CMakeOutput.log".

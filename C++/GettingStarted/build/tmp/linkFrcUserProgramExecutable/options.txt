@@ -1,0 +1,42 @@
+-o
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/exe/frcUserProgram/frcUserProgram"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/objs/frcUserProgram/frcUserProgramCpp/8ljbyoe5cmno4aocrv8a5trb8/Robot.o"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/hal-2017.2.1.zip_0441627de4b891b9388ff6a586d43a1c/lib/libHALAthena.so"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/NetworkTables-3.1.7-arm.zip_fd999d4916b982d23b33dfca07d4060c/Linux/arm/libntcore.so"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/wpiutil-1.0.2-arm.zip_4bf69224c3d16e318c368773c758e7ac/Linux/arm/libwpiutil.so"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libcscore.so"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_calib3d.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_core.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_features2d.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_flann.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_highgui.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_imgcodecs.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_imgproc.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_ml.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_objdetect.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_photo.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_shape.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_stitching.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_superres.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_video.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_videoio.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_videostab.so.3.1"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/lib/libCTRLib.a"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/lib/libCTRLibDriver.a"
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Navx-Zip-3.0.323.zip_c0c6ad9663a15742234636572d09c7b4/roborio/cpp/lib/libnavx_frc_cpp.a"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Navx-Zip-3.0.323.zip_c0c6ad9663a15742234636572d09c7b4/roborio/cpp/lib"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/lib"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/athena-2017.2.1.zip_a1c5d1ac57fc30c16b208d97cd38f10b/lib"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/hal-2017.2.1.zip_0441627de4b891b9388ff6a586d43a1c/lib"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/NetworkTables-3.1.7-arm.zip_fd999d4916b982d23b33dfca07d4060c/Linux/arm"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/wpiutil-1.0.2-arm.zip_4bf69224c3d16e318c368773c758e7ac/Linux/arm"
+-L
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib"
+-l
+wpi

@@ -1,0 +1,23 @@
+-x
+c++
+-c
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/src/cpp"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/src/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/athena-2017.2.1.zip_a1c5d1ac57fc30c16b208d97cd38f10b/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/hal-2017.2.1.zip_0441627de4b891b9388ff6a586d43a1c/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/NetworkTables-3.1.7-arm.zip_fd999d4916b982d23b33dfca07d4060c/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/wpiutil-1.0.2-arm.zip_4bf69224c3d16e318c368773c758e7ac/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/include"
+-I
+"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Navx-Zip-3.0.323.zip_c0c6ad9663a15742234636572d09c7b4/roborio/cpp/include"
+-DROBORIO
+-std=c++1y
