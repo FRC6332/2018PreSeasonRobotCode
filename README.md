@@ -1,6 +1,6 @@
 # 2018RobotCode
-## C++/GettingStarted: C++ ArcadeDrive code using 4 of 6 Talon SRXs.
-## Python/GettingStarted/CANTalon: Python ArcadeDrive code using all 6 Talon SRXs to drive the robot
+#### C++/GettingStarted: C++ ArcadeDrive code using 4 of 6 Talon SRXs.
+#### Python/GettingStarted/CANTalon: Python ArcadeDrive code using all 6 Talon SRXs to drive the robot
 ## Deploying to the robot using Python3
 Install pyfrc using this guide: http://robotpy.readthedocs.io/en/stable/install/pyfrc.html
 
