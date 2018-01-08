@@ -1,42 +1,56 @@
 -o
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/exe/frcUserProgram/frcUserProgram"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/objs/frcUserProgram/frcUserProgramCpp/8ljbyoe5cmno4aocrv8a5trb8/Robot.o"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/hal-2017.2.1.zip_0441627de4b891b9388ff6a586d43a1c/lib/libHALAthena.so"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/NetworkTables-3.1.7-arm.zip_fd999d4916b982d23b33dfca07d4060c/Linux/arm/libntcore.so"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/wpiutil-1.0.2-arm.zip_4bf69224c3d16e318c368773c758e7ac/Linux/arm/libwpiutil.so"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libcscore.so"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_calib3d.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_core.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_features2d.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_flann.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_highgui.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_imgcodecs.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_imgproc.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_ml.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_objdetect.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_photo.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_shape.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_stitching.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_superres.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_video.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_videoio.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib/libopencv_videostab.so.3.1"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/lib/libCTRLib.a"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/lib/libCTRLibDriver.a"
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Navx-Zip-3.0.323.zip_c0c6ad9663a15742234636572d09c7b4/roborio/cpp/lib/libnavx_frc_cpp.a"
+/home/wcs/FRC/2018/C++/GettingStarted/build/exe/frcUserProgram/frcUserProgram
+/home/wcs/FRC/2018/C++/GettingStarted/build/objs/frcUserProgram/frcUserProgramCpp/8ljbyoe5cmno4aocrv8a5trb8/Robot.o
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/wpilibc-2018.1.1-linuxathena.zip_eb08a6945e8c7e46bd3eb770a71c8773/linux/athena/shared/libwpilibc.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/hal-2018.1.1-linuxathena.zip_8fed6e4251b83e01f2c2f77e13eb29db/linux/athena/shared/libwpiHal.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/wpiutil-cpp-3.0.0-linuxathena.zip_07118692493d9c8e823b142c875011ac/linux/athena/shared/libwpiutil.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ntcore-cpp-4.0.0-linuxathena.zip_0e5adbad9f749ba305468afe51a81439/linux/athena/shared/libntcore.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/cscore-cpp-1.1.0-linuxathena.zip_789d79a8d198f973f6d146782de2c198/linux/athena/shared/libcscore.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_calib3d.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_core.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_features2d.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_flann.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_highgui.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_imgcodecs.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_imgproc.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_java320.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_ml.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_objdetect.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_photo.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_shape.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_stitching.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_superres.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_video.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_videoio.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared/libopencv_videostab.so.3.2
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libFRC_NetworkCommunication.so.18.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libNiFpga.so.17.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libNiFpgaLv.so.17.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libNiRioSrv.so.17.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libRoboRIO_FRC_ChipObject.so.18.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libniriodevenum.so.17.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libniriosession.so.17.0.0
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared/libvisa.so
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/CTRE-phoenix-cpp-5.1.2.1.zip_8f2901cd928e500da2c7d8e11d6ef623/libCTRE_Phoenix.a
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/CTRE-phoenix-cpp-5.1.2.1.zip_8f2901cd928e500da2c7d8e11d6ef623/libCTRE_PhoenixCCI.a
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/navx-cpp-3.0.342.zip_541db87ad4780c18ad9a6f5a76257bb1/libnavx_frc_cpp.a
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Navx-Zip-3.0.323.zip_c0c6ad9663a15742234636572d09c7b4/roborio/cpp/lib"
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/navx-cpp-3.0.342.zip_541db87ad4780c18ad9a6f5a76257bb1
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/lib"
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/CTRE-phoenix-cpp-5.1.2.1.zip_8f2901cd928e500da2c7d8e11d6ef623
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/athena-2017.2.1.zip_a1c5d1ac57fc30c16b208d97cd38f10b/lib"
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/wpilibc-2018.1.1-linuxathena.zip_eb08a6945e8c7e46bd3eb770a71c8773/linux/athena/shared
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/hal-2017.2.1.zip_0441627de4b891b9388ff6a586d43a1c/lib"
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/hal-2018.1.1-linuxathena.zip_8fed6e4251b83e01f2c2f77e13eb29db/linux/athena/shared
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/NetworkTables-3.1.7-arm.zip_fd999d4916b982d23b33dfca07d4060c/Linux/arm"
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/wpiutil-cpp-3.0.0-linuxathena.zip_07118692493d9c8e823b142c875011ac/linux/athena/shared
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/wpiutil-1.0.2-arm.zip_4bf69224c3d16e318c368773c758e7ac/Linux/arm"
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ntcore-cpp-4.0.0-linuxathena.zip_0e5adbad9f749ba305468afe51a81439/linux/athena/shared
 -L
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/lib"
--l
-wpi
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/cscore-cpp-1.1.0-linuxathena.zip_789d79a8d198f973f6d146782de2c198/linux/athena/shared
+-L
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-linuxathena.zip_882ce6d6786024fd1378ddee15c75ec3/linux/athena/shared
+-L
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-linuxathena.zip_a5dc7dd7e31ebd656c8b25c6529fb964/linux/athena/shared
+-pthread
+-rdynamic

@@ -1,1 +1,0 @@
-/home/wcs/wpilib/cpp/current/include/ctrlib/CANTalon.h

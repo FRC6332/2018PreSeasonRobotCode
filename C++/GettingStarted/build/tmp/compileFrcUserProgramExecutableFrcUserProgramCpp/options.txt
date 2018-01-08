@@ -1,23 +1,37 @@
 -x
 c++
 -c
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/src/cpp"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/src/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/athena-2017.2.1.zip_a1c5d1ac57fc30c16b208d97cd38f10b/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/hal-2017.2.1.zip_0441627de4b891b9388ff6a586d43a1c/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/NetworkTables-3.1.7-arm.zip_fd999d4916b982d23b33dfca07d4060c/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/wpiutil-1.0.2-arm.zip_4bf69224c3d16e318c368773c758e7ac/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/cscore-1.0.1-athena-uberzip.zip_826e8d013c0726864fffb07a1701beba/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Toolsuite-Zip-4.4.1.14.zip_9182309d0eefdf76ea7e93f94022510f/cpp/include"
--I
-"/home/wcs/FRC/FRC1884-2016/C++ Example Code/CAN Talon C++ Robot Code/build/tmp/expandedArchives/Navx-Zip-3.0.323.zip_c0c6ad9663a15742234636572d09c7b4/roborio/cpp/include"
--DROBORIO
 -std=c++1y
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/src/cpp
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/src/include
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/wpilibc-2018.1.1-headers.zip_0ba004690f48207547fbbd2a6f212388
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/hal-2018.1.1-headers.zip_4b49b4176ae22cb58a5421914aabf320
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/wpiutil-cpp-3.0.0-headers.zip_71db4973bf73247f06ec3fdb86e1126b
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ntcore-cpp-4.0.0-headers.zip_517391151665b6a51f10f788c06ee62d
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/cscore-cpp-1.1.0-headers.zip_7179d2a404841338b55673d83c119071
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/opencv-cpp-3.2.0-headers.zip_1b8591564854592a4aff6bd224b2b0a3
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/ni-libraries-2018.1.1-headers.zip_6aedc4b55a982775a7b6e16df1020d5b
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/CTRE-phoenix-cpp-5.1.2.1-headers.zip_fff3d22e160106b698f6c35d0b2e8153
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/navx-cpp-3.0.342-headers.zip_ded0b7831bcd4688d480db0d93158974
+-I
+/home/wcs/FRC/2018/C++/GettingStarted/build/tmp/expandedArchives/MatchData-2018.01.07-headers.zip_690b86dff7c45de52602c9654d059cf0
+-I
+/usr/lib/x86_64-linux-gnu/gcc/arm-frc-linux-gnueabi/5.5.0/include
+-I
+/usr/lib/x86_64-linux-gnu/gcc/arm-frc-linux-gnueabi/5.5.0/include-fixed
+-I
+/usr/arm-frc-linux-gnueabi/include
+-I
+/usr/arm-frc-linux-gnueabi/usr/include
+-pthread
